@@ -1,0 +1,7 @@
+customer-sales-analysis/
+│
+├── data/
+├── notebooks/
+├── sql/
+├── visuals/
+└── README.md
