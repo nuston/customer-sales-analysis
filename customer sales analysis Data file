@@ -1,1 +1,10 @@
+## Dataset Information
+The dataset used in this project is the **Online Retail Dataset**.Due to GitHub file size limits, the raw dataset is not stored in this repository.
+### Source
+- Kaggle: Online Retail Dataset
+### Instructions to Access Data
+1. Visit Kaggle and search for "Online Retail Dataset"
 https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset?resource=download
+2. Download the CSV or Excel file
+3. Rename the file to `online_retail.csv`
+4. Place it in the `data/` folder locally before running the analysis
