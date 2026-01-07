@@ -1,11 +1,11 @@
-📊 Customer Sales Performance Analysis
+**📊 Customer Sales Performance Analysis**
 📌 Project Overview
 
 This project analyses transactional customer sales data to uncover revenue trends, identify top-performing products, and explore customer purchasing behaviour. The goal is to generate data-driven insights that can support strategic business decisions in areas such as pricing, inventory management, and customer retention.
 
 The analysis was conducted using Python and focuses on transforming raw sales data into meaningful business intelligence through data cleaning, aggregation, and visualisation.
 
-🎯 Objectives
+**🎯 Objectives**
 
 Analyse overall sales performance and revenue patterns
 
@@ -15,7 +15,7 @@ Examine monthly sales trends over time
 
 Explore customer-level revenue contribution
 
-🧰 Tools & Technologies
+**🧰 Tools & Technologies**
 
 Python
 
@@ -29,7 +29,7 @@ Excel (initial data inspection)
 
 GitHub (version control and portfolio presentation)
 
-📂 Project Structure
+**📂 Project Structure**
 customer-sales-analysis/
 ├── sales_analysis.ipynb
 ├── README.md
@@ -37,7 +37,7 @@ customer-sales-analysis/
     ├── monthly_revenue_trend.png
     └── top_products_revenue.png
 
-🔍 Key Business Questions
+**🔍 Key Business Questions**
 
 Which products generate the highest revenue?
 
@@ -47,7 +47,7 @@ Are sales concentrated among a small number of products or customers?
 
 What trends can be observed that may inform future business strategy?
 
-📈 Key Insights
+**📈 Key Insights**
 
 A relatively small number of products account for a significant proportion of total revenue, indicating a strong revenue concentration effect.
 
@@ -55,7 +55,7 @@ Monthly revenue analysis reveals clear patterns and fluctuations, suggesting sea
 
 High-value customers contribute disproportionately to overall revenue, highlighting opportunities for targeted retention strategies.
 
-📊 Visualisations
+**📊 Visualisations**
 
 The following visual outputs were generated as part of the analysis:
 
@@ -65,7 +65,7 @@ Top Products by Revenue – highlights the highest revenue-generating products
 
 All charts are saved in the visuals/ folder and generated programmatically within the Jupyter notebook.
 
-✅ Outcome & Business Value
+**✅ Outcome & Business Value**
 
 This analysis demonstrates how structured data analysis can uncover actionable insights from raw transactional data. The findings can support:
 
@@ -75,7 +75,7 @@ More effective product prioritisation
 
 Data-driven marketing and customer retention strategies
 
-🚀 Skills Demonstrated
+**🚀 Skills Demonstrated**
 
 Data cleaning and preprocessing
 
@@ -87,6 +87,6 @@ Data visualisation and insight communication
 
 Organising and presenting analysis in a professional GitHub portfolio
 
-🔗 Portfolio Use
+**🔗 Portfolio Use**
 
 This project forms part of my data analysis portfolio and showcases practical application of Python for business analytics.
