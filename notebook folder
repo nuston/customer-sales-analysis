@@ -1,9 +1,0 @@
-notebooks/sales_analysis.ipynb
-# Customer Sales Performance Analysis
-
-## Project Overview
-This notebook analyses customer sales transaction data to identify revenue trends, top-performing products, and customer behaviour patterns.
-
-## Dataset
-- Source: Kaggle – Online Retail Dataset
-- Note: The dataset is stored locally due to GitHub file size limits.
